@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @RaresPopaMihai
+- 👀 I’m interested in any type of software developement
+- 🌱 I’m currently learning java, gcp, linux, git, python, javascript, html, css, c#, React.js, sap
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
