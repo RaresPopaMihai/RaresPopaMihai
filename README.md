@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RaresPopaMihai
 - 👀 I’m interested in any type of software developement, IOT, Big Data, SAP
-- 🌱 I’m currently learning java, gcp, linux, git, python, javascript, html, css, c#, React.js, sap
+- 🌱 I’m currently learning java, gcp, linux, git, python, javascript, html, css, c#, React.js, sap, dart, flutter
